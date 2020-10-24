@@ -1,0 +1,16 @@
+Cerberus==1.3.2
+certifi==2020.6.20
+chardet==3.0.4
+click==7.1.2
+Eve==1.1.4
+Events==0.3
+Flask==1.1.2
+idna==2.10
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+pymongo==3.11.0
+requests==2.24.0
+simplejson==3.17.2
+urllib3==1.25.11
+Werkzeug==1.0.1
