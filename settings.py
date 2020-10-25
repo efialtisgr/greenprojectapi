@@ -1,4 +1,4 @@
-MONOGO_URI = 'mongodb://10.135.0.2:27017/projectgreen'
+MONOGO_URI = 'mongodb://localhost:27017/projectgreen'
 
 
 RESOURCE_METHODS = ['GET', 'POST', 'DELETE']
